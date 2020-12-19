@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alan_app_chitkara/static/css/main.3c2fef4c.chunk.css",
+    "main.js": "/alan_app_chitkara/static/js/main.27837377.chunk.js",
+    "main.js.map": "/alan_app_chitkara/static/js/main.27837377.chunk.js.map",
+    "runtime-main.js": "/alan_app_chitkara/static/js/runtime-main.396c7a1e.js",
+    "runtime-main.js.map": "/alan_app_chitkara/static/js/runtime-main.396c7a1e.js.map",
+    "static/js/2.21aad379.chunk.js": "/alan_app_chitkara/static/js/2.21aad379.chunk.js",
+    "static/js/2.21aad379.chunk.js.map": "/alan_app_chitkara/static/js/2.21aad379.chunk.js.map",
+    "index.html": "/alan_app_chitkara/index.html",
+    "precache-manifest.8bac8f4e124bde2f8ef567a966d7a102.js": "/alan_app_chitkara/precache-manifest.8bac8f4e124bde2f8ef567a966d7a102.js",
+    "service-worker.js": "/alan_app_chitkara/service-worker.js",
+    "static/css/main.3c2fef4c.chunk.css.map": "/alan_app_chitkara/static/css/main.3c2fef4c.chunk.css.map",
+    "static/js/2.21aad379.chunk.js.LICENSE.txt": "/alan_app_chitkara/static/js/2.21aad379.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/alan_app_chitkara/static/media/logo.4f8514a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.396c7a1e.js",
+    "static/js/2.21aad379.chunk.js",
+    "static/css/main.3c2fef4c.chunk.css",
+    "static/js/main.27837377.chunk.js"
+  ]
+}
